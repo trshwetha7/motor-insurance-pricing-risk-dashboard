@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+data/openml_cache/
+data/processed/*.csv
+data/processed/*.parquet
+
+reports/.mplconfig/

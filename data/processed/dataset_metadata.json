@@ -1,0 +1,22 @@
+{
+  "row_count": 678013,
+  "column_count": 21,
+  "processed_path": "/Users/trshwetha7/Documents/InsurTech/data/processed/freMTPL2_pricing.parquet",
+  "csv_path": "/Users/trshwetha7/Documents/InsurTech/data/processed/freMTPL2_pricing.csv",
+  "amount_cap_99pct": 1253.3288,
+  "pure_premium_cap_99pct": 3082.411822660105,
+  "categorical_columns": [
+    "Area",
+    "VehBrand",
+    "VehGas",
+    "Region"
+  ],
+  "numeric_columns": [
+    "VehPower",
+    "VehAge",
+    "DrivAge",
+    "BonusMalus",
+    "Density",
+    "Exposure"
+  ]
+}
