@@ -229,4 +229,4 @@ Then open `http://localhost:8501`.
 
 ## Author
 
-***Shwetha Tinnium Raju***
+**Shwetha Tinnium Raju**
