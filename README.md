@@ -227,6 +227,6 @@ Then open `http://localhost:8501`.
 - The model hierarchy is intuitive from a pricing perspective: prior experience (`BonusMalus`), exposure, and age-based variables drive much of the expected claim cost separation.
 - The dashboard format makes the project more than a modeling exercise by connecting technical output to commercial and underwriting action.
 
-## Resume Bullet
+## Author
 
-Motor Insurance Pricing & Claims Risk Modeling: Built an end-to-end pricing analytics dashboard using motor insurance claims data, modeling pure premium and claim frequency with Tweedie/Poisson regression and tree-based ML; created risk segmentation, calibration analysis, pricing adequacy flags, and policy-level scoring recommendations through a Streamlit app.
+***Shwetha Tinnium Raju***
